@@ -1,0 +1,20 @@
+SUC0000001 | PasswordSuper | Account Super | SuperAccount@mail.com | 087808783609 | Jakarta | 2001-09-20 | Super Account
+AUA0000002 | PasswordAdmin | Kodak | kodako@mail.jp | 75707471290 | Kuala Lumpur | 2001-11-12 | Admin Account
+SUA0000003 | newpassword | Jericho | richo@mail.co | 1234512345 | Green Lake City | 2001-11-12 | Saving Account | 4000.0 | Indonesia
+CUA0000004 | newpassword | Kevin  | vin@mail.co | 88886699 | Kuala Lumpur | 2001-3-12 | Current Account | 4500.0 | Malaysia
+AUA0000005 | PasswordAdmin | Merry | mery@mail.co | 675423458732 | Penang | 2001-1-12 | Admin Account
+SUA0000006 | PasswordUser | Emilio | milio@mail.co | 98909891254 | Medan | 2000-1-31 | Saving Account | 4000.0 | Indonesia
+CUA0000007 | PasswordUser | Jessica | sica@mail.co | 1234512345 | TSI | 1999-9-21 | Current Account | 3000.0 | Indonesia
+SUA0000008 | PasswordUser | Jovan | van@mail.co | 1234509876 | Jakarta | 2002-8-19 | Saving Account | 2500.0 | Indonesia
+CUA0000009 | newpassword | Peter | peter@mail.co | 0987654321 | Kuala Lumpur | 2000-3-30 | Current Account | 3700.0 | Malaysia
+AUA0000010 | PasswordAdmin | Timothy | mothy@mail.co | 1234567890 | Serawak | 1999-3-1 | Admin Account
+CUA0000011 | newone | Jessica | sica@mail.co | 1234567890 | Johor Baru | 2001-12-13 | Current Account | 3000.0 | Malaysia
+AUA0000012 | PasswordAdmin | Julian | lian@mail.co | 456712345698 | Serawak | 2001-5-14 | Admin Account
+CUA0000013 | PasswordUser | Christian | tian@mail.co | 1234567890 | TSI | 2000-1-31 | Current Account | 2900.0 | Indonesia
+AUA0000014 | PasswordAdmin | Jason | Jason@mail.co | 86808684509 | Kuala Lumpur | 1998-12-13 | Admin Account
+SUA0000015 | PasswordUser | Richard | chard@mail.co | 86809792145 | Jakarta | 2002-3-21 | Saving Account | 2500.0 | Indonesia
+CUA0000016 | PasswordUser | William | liam@mail.co | 76754326745 | Bandung | 2004-2-19 | Current Account | 2450.0 | Indonesia
+AUA0000017 | PasswordAdmin | Roger | rog@mail.co | 98765987654 | Kuala Lumpur | 1991-1-1 | Admin Account
+AUA0000018 | PasswordAdmin | Jason | jas@mail.co | 123498763456 | Penang | 1999-3-21 | Admin Account
+SUA0000019 | newpassword | Bintang | bin@mail.com | 876523451298 | Medan | 2001-1-31 | Saving Account | 2300.0 | Indonesia
+CUA0000020 | PasswordUser | Suzy | zy@mail.co | 234134569876 | Kuala Lumpur | 1998-12-23 | Current Account | 4000.0 | Malaysia
