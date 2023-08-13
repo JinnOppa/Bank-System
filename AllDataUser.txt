@@ -15,6 +15,6 @@ AUA0000014 | PasswordAdmin | Jason | Jason@mail.co | 86808684509 | Kuala Lumpur 
 SUA0000015 | PasswordUser | Richard | chard@mail.co | 86809792145 | Jakarta | 2002-3-21 | Saving Account | 2500.0 | Indonesia
 CUA0000016 | PasswordUser | William | liam@mail.co | 76754326745 | Bandung | 2004-2-19 | Current Account | 2450.0 | Indonesia
 AUA0000017 | PasswordAdmin | Roger | rog@mail.co | 98765987654 | Kuala Lumpur | 1991-1-1 | Admin Account
-AUA0000018 | PasswordAdmin | Jason | jas@mail.co | 123498763456 | Penang | 1999-3-21 | Admin Account
-SUA0000019 | newpassword | Bintang | bin@mail.com | 876523451298 | Medan | 2001-1-31 | Saving Account | 2300.0 | Indonesia
+AUA0000018 | PasswordAdmin | Jason | jas@mail.com | 101010101010 | Serawak | 1999-3-21 | Admin Account
+SUA0000019 | binatang | Bintang | bin@mail.com | 876523451298 | Medan | 2001-1-31 | Saving Account | 2500.0 | Indonesia
 CUA0000020 | PasswordUser | Suzy | zy@mail.co | 234134569876 | Kuala Lumpur | 1998-12-23 | Current Account | 4000.0 | Malaysia
